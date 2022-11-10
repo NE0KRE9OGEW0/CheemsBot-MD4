@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
-global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
-global.socialm = "GitHub: Elgazar" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.vcardowner = ['0506250572'] //ur owner number
+global.ownername = "Bot 3/2 ٫" //ur owner name
+global.ytname = "" //ur yt chanel name
+global.socialm = "" //ur github or insta name
+global.location = "" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.owner = ['0506250572']
+global.ownertag = '0506250572' //ur tag number
+global.botname = 'Bot 3/2 ٫' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/LuSlx8umaP9KjCaO1RjoGx' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "Bot 3/2" //ur sticker watermark packname
+global.author = "" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -105,8 +105,8 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
+    success: '✓',
+    admin: '',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
@@ -117,7 +117,6 @@ global.mess = {
     error: 'ايرور!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدردشة.',
-    nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
     banChat: 'تم حظر الروبوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر'
 }
     global.limitawal = {
